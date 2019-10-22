@@ -1,8 +1,9 @@
-#include <iostream>
-#include <string>
-#include <fstream>
-#include <sstream>
-#include <ctime>
+#include <iostream>//input /output statements
+#include <string>//string library
+#include <fstream>//file handling
+#include <sstream>//string management
+#include <ctime>//importing time
+
 
 using namespace std;
 struct record //attributes to record books
